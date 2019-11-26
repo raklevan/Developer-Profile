@@ -18,7 +18,7 @@ Generates a pdf from user input
 
 ​
 ### Screenshots
-​![Movie](untitled.mov)
+​![alt text](demonstration.gif)
 
 
 ​
